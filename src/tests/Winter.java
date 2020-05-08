@@ -2,6 +2,9 @@ package tests;
 
 public class Winter {
     public static void main(String[] args) {
-        System.out.println("merhaban");
+
+        System.out.println("heeeello");
+
+
     }
 }
